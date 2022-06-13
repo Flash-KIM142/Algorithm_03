@@ -1,5 +1,9 @@
 # Algorithm_03
 ## Assignment 5 
+```
+I ran 3 different trials modifying model number given to "select_model(model_number)" as a parameter. 
+I just ran 3 trials by simply giving 1,2,3 as a parameter with only one file "test.ipynb", not 3 different files.
+```
 
 ### Trial 1 with model no.1
 <h3><p align="center">
